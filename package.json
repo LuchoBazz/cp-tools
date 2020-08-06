@@ -1,7 +1,7 @@
 {
   "name": "codeforces-contest-bot",
   "version": "1.0.0",
-  "description": "Developed by rachitiitr",
+  "description": "Codeforces Bot",
   "main": "script.js",
   "dependencies": {
     "axios": "^0.19.2",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rachitiitr/CodeforcesContestBot.git"
+    "url": "git+https://github.com/LuisMBaezCo/cp-tools.git"
   },
   "keywords": [
     "competitive-programming",
@@ -25,7 +25,6 @@
   "author": "Rachit Jain",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rachitiitr/CodeforcesContestBot/issues"
-  },
-  "homepage": "https://github.com/rachitiitr/CodeforcesContestBot#readme"
+    "url": "https://github.com/LuisMBaezCo/cp-tools/issues"
+  }
 }

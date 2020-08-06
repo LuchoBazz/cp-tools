@@ -4,6 +4,6 @@
 
 # Flags
 
-./script.sh "$1" "$2" "$3"
+./run_tests.sh "$1" "$2" "$3"
 
-./script_diff.sh "$1"
+./diff.sh "$1"
